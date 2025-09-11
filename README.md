@@ -6,6 +6,7 @@
 
 - This project analyzes airline passenger satisfaction by cleaning, visualizing and analyzing customer survey and flight delay data to uncover key service pain points & propose actionable improvements.
 
+![Dashboard Visualization](https://github.com/CallmeNavin/P15_Airline-Customer-Experience/blob/main/Version%201/Visualization/First%20Impact.png)
 _Explore more insights in the full Power BI dashboard_
 
 **B. Dataset Information**
